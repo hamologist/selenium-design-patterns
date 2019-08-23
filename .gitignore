@@ -2,11 +2,14 @@
 *.pyc
 *.pyo
 *.egg-info
+bin/
+lib/
 build/
 dist/
 env/
 __pycache__/
 
+pyvenv.cfg
 poetry.lock
 .DS_Store
 .idea
